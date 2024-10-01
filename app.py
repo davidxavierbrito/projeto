@@ -5,4 +5,4 @@ def soma(a, b):
 
 if __name__ == "__main__":
     resultado = soma(2, 3)
-    print(f"O resultado da soma é {resultado}")
+    print(f"O resultado da somawwww é {resultado}")
